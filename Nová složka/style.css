@@ -278,7 +278,6 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 20px; /* Mezery mezi jednotlivými kartami */
-  /* justify-content: center;  Odkomentuj, pokud chceš mít karty vycentrované */
 }
 
 .skill-item {
