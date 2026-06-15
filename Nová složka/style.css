@@ -42,7 +42,7 @@ img {
   display: block;
 }
 
-/* ===== NAVBAR ===== */
+/* == NAVBAR == */
 .navbar {
   position: fixed; /* fixuje pozici při scrollování */
   top: 0;
