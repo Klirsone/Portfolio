@@ -135,7 +135,7 @@ img {
   max-width: 420px;
   color: var(--color-text);
 }
-
+/* Tlačítka v sekci Hero */
 .hero-buttons {
   display: flex;
   gap: 1rem;
