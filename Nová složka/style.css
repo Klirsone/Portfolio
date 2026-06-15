@@ -236,7 +236,7 @@ img {
   object-position: center;
 }
 
-/* Oddělení More About Me sekce */
+/* Oddělení More About Me sekce čára*/
 
 .about-section {
   border-top: 1px solid var(--color-border);
