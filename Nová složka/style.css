@@ -44,7 +44,7 @@ img {
 
 /* ===== NAVBAR ===== */
 .navbar {
-  position: fixed; /* zůstane nahoře při scrollu */
+  position: fixed; /* fixuje pozici při scrollování */
   top: 0;
   left: 0;
   right: 0;
