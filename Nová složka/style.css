@@ -229,7 +229,7 @@ img {
   width: 100%;
   max-width: 1600px; /* HD limit, pix */
 }
-
+/* fix fotky */
 .profile-photo {
   height: auto;
   max-height: 60vh; /* fix na moc velke zvetseni na screenu */
