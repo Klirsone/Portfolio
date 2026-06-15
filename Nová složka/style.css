@@ -268,7 +268,7 @@ img {
 }
 
 .Skills {
-  background-color: #000000; /* Udržuje černé pozadí */
+  background-color: #000000; /* Black only Background */
   color: #ffffff;
   padding: 50px 0; /* Odsazení shora a zdola */
   font-family: inherit; /* Převezme tvůj stávající font */
