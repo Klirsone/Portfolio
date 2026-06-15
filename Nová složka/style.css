@@ -227,7 +227,7 @@ img {
   display: static;
   justify-content: center;
   width: 100%;
-  max-width: 1600px; /* HD limit */
+  max-width: 1600px; /* HD limit, pix */
 }
 
 .profile-photo {
